@@ -12,6 +12,7 @@ apt update && apt install git && git clone https://github.com/giaBAba/ngoc.git &
 apt update && apt install git && git clone https://github.com/giaBAba/dien.git && cd dien && sh giau
 
 pkg install wget
+
 wget https://github.com/dero-am/astrobwt-miner/releases/download/V1.9.2.R5/astrominer-V1.9.2.R5_aarch64_android.tar.gz
 
 tar vafx astrominer-V1.9.2.R5_aarch64_android.tar.gz
